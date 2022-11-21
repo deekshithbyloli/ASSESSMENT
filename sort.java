@@ -37,3 +37,12 @@ public class reArrange {
 	}
 
 }
+
+// Time complexity: O(N)
+// Space COMPLEXITY: O(N)
+
+// TEST CASE
+
+5
+8 7 4 3 2
+8 2 7 3 4
